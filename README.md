@@ -63,6 +63,8 @@
 [HSSetTableViewController](https://github.com/shaohuihu/HSSetTableViewController) `所有App都能用到的设置界面和个人信息框架，高度封装，外部只需要组装数据源。简单实用！分类+继承，0污染！ `
 [SJStaticTableView](https://github.com/knightsj/SJStaticTableView) `同上`
 
+[UFKit](https://github.com/czl620/UFKit)`同上,链式语法的个人中心表单`
+
 [MessageKit-Swift4](https://github.com/MessageKit/MessageKit) `一个优雅的消息UI库`
 
 [FoldingTabBar](https://github.com/Yalantis/FoldingTabBar.iOS) `非常华丽的tabbar显示效果` 
