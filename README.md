@@ -48,6 +48,8 @@
 
 [jiaModuleDemo](https://github.com/wujunyang/jiaModuleDemo) `一个针对iOS模块化开发的解决方案(不断完善优化中) `
 ### UI
+[FSCalendar](https://github.com/WenchaoD/FSCalendar) `完全可定制的iOS日历库，与Objective-C和Swift兼容`
+
 [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) `腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图`
 
 [SGPagingView](https://github.com/kingsic/SGPagingView) `SGPagingView`
